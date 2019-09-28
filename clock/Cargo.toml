@@ -1,0 +1,8 @@
+[package]
+edition = "2018"
+name = "clock"
+version = "2.4.0"
+
+[dependencies]
+modulo = "0.1.2"
+num = "0.2"
